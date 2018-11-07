@@ -105,3 +105,4 @@ venv.bak/
 
 #data
 data/Montana.csv
+data/db_random.csv
